@@ -6,7 +6,8 @@ import './globals.css'
 
 // Export the RootLayout component as the default export
 export default function RootLayout({ children }) {
-  // The RootLayout component receives 'children' as a prop, which will be the content of each specific page
+  // The RootLayout component receives 'children' as a prop,
+  // which will be the content of each specific page
   return (
     // Set the language of the HTML document to English
     <html lang="en">
