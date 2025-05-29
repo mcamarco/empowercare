@@ -6,7 +6,7 @@ export default function Navigation() {
       <Link href="/" style={{ marginRight: "1.5rem" }} >Home</Link>
       <Link href="/about"style={{ marginRight: "1.5rem" }} >About</Link>
       <Link href="/contact" style={{ marginRight: "1.5rem" }} >Contact</Link>
-      <Link href="/services" style={{ marginRight: "1.5rem" }} >Services</Link>
+      <Link href="/services">Services</Link>
     </nav>
   );
 }
